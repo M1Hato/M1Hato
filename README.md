@@ -1,4 +1,4 @@
-<h1 align="center">Name Surname</h1>
+<h1 align="center">Sviatoslav Lysiuk</h1>
 <h3 align="center">Python Backend Developer</h3>
 
 <p align="center">
